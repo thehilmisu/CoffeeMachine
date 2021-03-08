@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/Coffee.png</file>
+        <file>images/cup.jpg</file>
+        <file>images/running_coffee.jpg</file>
+        <file>MenuScreen.qml</file>
+        <file>images/coffee-bean.jpg</file>
+        <file>images/gear_icon.png</file>
+        <file>SettingsScreen.qml</file>
+        <file>WindowManager.qml</file>
+        <file>StandbyScreen.qml</file>
+        <file>images/wooden_background.jpg</file>
+        <file>StatesScreen.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/images/Coffee.png</file>
+        <file>qml/images/cup.jpg</file>
+        <file>qml/images/running_coffee.jpg</file>
+    </qresource>
+</RCC>

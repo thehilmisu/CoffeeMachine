@@ -1,0 +1,60 @@
+{
+  "return_code": 200,
+  "error_message": "",
+
+  "collection_name": "Bio-Hybrid Cookbook",
+  "collection_version": "v0.1",
+
+  "recipes": [
+    {
+      "name": "Espresso",
+      "beans_g": 10,
+      "grind_level": "fine",
+      "water_ml": 35,
+      "water_temp": 95
+    },
+    {
+      "name": "Americano",
+      "beans_g": 17,
+      "grind_level": "fine",
+      "water_ml": 300,
+      "water_temp": 95
+    },
+    {
+      "name": "Latte",
+      "beans_g": 14,
+      "grind_level": "medium-fine",
+      "water_ml": 300,
+      "water_temp": 90,
+      "milk":{
+        "milk_ml": 100,
+        "milk_temp": 85,
+        "foam_ml": 0
+      }
+    },
+    {
+      "name": "Macchiato",
+      "beans_g": 20,
+      "grind_level": "medium",
+      "water_ml": 50,
+      "water_temp": 90,
+      "milk":{
+        "milk_temp": 90,
+        "milk_ml": 250,
+        "foam_ml": 50
+      }
+    },
+    {
+      "name": "Espresso Macchiato",
+      "water_ml": 50,
+      "water_temp": 95,
+      "grind_level": "extra-fine",
+      "beans_g": 10,
+      "milk":{
+        "milk_temp": 92,
+        "milk_ml": 0,
+        "foam_ml": 20
+      }
+    }
+  ]
+}
